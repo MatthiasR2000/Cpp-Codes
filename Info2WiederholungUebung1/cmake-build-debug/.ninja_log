@@ -1,0 +1,6 @@
+# ninja log v6
+1564	1677	1750747577566545797	Info2WiederholungUebung1	95dc300cec9580ee
+3	311	1750749681490499675	build.ninja	fd2af383cb4a6225
+11	1564	1750747576012779694	CMakeFiles/Info2WiederholungUebung1.dir/main.cpp.o	b85a7c9faa812efe
+28	2964	1750747491831658475	CMakeFiles/Info2WiederholungUebung1.dir/Waggon.cpp.o	afb2c36374653ea7
+12	1667	1750747557847314128	CMakeFiles/Info2WiederholungUebung1.dir/Zug.cpp.o	eb86e4080451cd20

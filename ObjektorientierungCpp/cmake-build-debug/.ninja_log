@@ -1,0 +1,10 @@
+# ninja log v6
+2	334	1740863461109067791	CMakeFiles/Klassen.dir/Vehicle.cpp.o	502903c92892717a
+0	374	1740863461107067721	CMakeFiles/Klassen.dir/main.cpp.o	d4d3cc7da94b5d36
+3	397	1740863461110067826	CMakeFiles/Klassen.dir/Garage.cpp.o	2de52d5dd88927fa
+3	418	1740863461110067826	CMakeFiles/Klassen.dir/Dealership.cpp.o	37051965c17d83d3
+336	629	1740863461443079535	CMakeFiles/Klassen.dir/Car.cpp.o	a2009cbddd80a5aa
+374	673	1740863461480080832	CMakeFiles/Klassen.dir/Motorbike.cpp.o	544230c9189c95c
+673	758	1740863461779091313	Klassen	19ddab18108a74ab
+2	553	1740866064980255151	CMakeFiles/Klassen.dir/main.cpp.o	d4d3cc7da94b5d36
+553	630	1740866065531274435	Klassen	19ddab18108a74ab

@@ -1,0 +1,3 @@
+/home/matthias/CLionProjects/Objektorientierung/cmake-build-debug/CMakeFiles/Klassen.dir
+/home/matthias/CLionProjects/Objektorientierung/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matthias/CLionProjects/Objektorientierung/cmake-build-debug/CMakeFiles/rebuild_cache.dir

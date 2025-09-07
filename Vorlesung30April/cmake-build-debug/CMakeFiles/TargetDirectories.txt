@@ -1,0 +1,3 @@
+/Users/matthiasroos/CLionProjects/Vorlesung30April/cmake-build-debug/CMakeFiles/Vorlesung30April.dir
+/Users/matthiasroos/CLionProjects/Vorlesung30April/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matthiasroos/CLionProjects/Vorlesung30April/cmake-build-debug/CMakeFiles/rebuild_cache.dir

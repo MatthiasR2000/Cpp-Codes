@@ -1,0 +1,3 @@
+/Users/matthiasroos/CLionProjects/Enums/cmake-build-debug/CMakeFiles/Enums.dir
+/Users/matthiasroos/CLionProjects/Enums/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matthiasroos/CLionProjects/Enums/cmake-build-debug/CMakeFiles/rebuild_cache.dir
